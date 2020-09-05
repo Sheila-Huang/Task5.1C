@@ -1,0 +1,98 @@
+body {
+	color: #fff;
+	background: #2aa38f;
+	font-family: 'Roboto', sans-serif;
+}
+.form-control {
+	height: 20px;
+	background: #fff;
+	box-shadow: none !important;
+	border: none;
+}
+.form-control:focus {
+	background: #fff;
+}
+.form-control, .btn {        
+	border-radius: 3px;
+}
+.signup-form {
+	width: 400px;
+	margin: 30px auto;
+}
+.signup-form form {
+	color: black;
+	font-size: 12px;
+	border-radius: 3px;
+	margin-bottom: 15px;
+	background: #fff;
+	box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+	padding: 30px;
+}
+.signup-form h1  {
+	color:  rgb(21, 105, 91);
+	font-weight: bold;
+	margin-top: 0;
+}
+.signup-form .sub-h {
+	color:  rgb(21, 105, 91);
+}
+
+.signup-form hr  {
+	margin: 0 -30px 20px;
+}    
+.signup-form .form-group {
+	margin-bottom: 20px;
+margin-top:20px;
+}
+
+.signup-form input[type="checkbox"] {
+	margin-top: 3px;
+}
+
+.signup-form .btn {        
+	font-size: 16px;
+	font-weight: bold;
+	background: #1a9276;
+	border: none;
+	min-width: 140px;
+}
+.signup-form .btn:hover, .signup-form .btn:focus {
+	background: #71a5a0 !important;
+    outline: none;
+    position: relative;
+}
+.signup-form a {
+	color: #fff;
+	text-decoration: underline;
+}
+.signup-form a:hover {
+	text-decoration: none;
+}
+.signup-form form a {
+	color: #3598dc;
+	text-decoration: none;
+}	
+.signup-form form a:hover {
+	text-decoration: underline;
+}
+.signup-form .hint-text  {
+	padding-bottom: 15px;
+	text-align: center;
+}
+
+.box{
+border:1px solid #e2e2e2;
+
+}
+.l-frame{
+	float:left;
+	width:49%;
+	border:1px solid #e2e2e2;
+	margin-bottom: 20px;
+}
+.r-frame{
+	float:right;
+	width:49%;
+	border:1px solid #e2e2e2;
+	margin-bottom: 20px;
+}

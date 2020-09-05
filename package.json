@@ -1,0 +1,33 @@
+{
+  "name": "deakindb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "chromedriver": "^84.0.1",
+    "connect": "^3.7.0",
+    "connect-flash": "^0.1.1",
+    "connect-mongo": "^3.2.0",
+    "cookie-parser": "^1.4.4",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "express-session": "^1.15.6",
+    "isemail": "^3.2.0",
+    "mongodb": "^3.6.0",
+    "mongoose": "^5.9.28",
+    "morgan": "^1.9.1",
+    "sass": "^1.25.0",
+    "serve-static": "^1.14.1",
+    "validator": "^13.1.1"
+  }
+}
